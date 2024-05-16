@@ -27,3 +27,4 @@
 /Users/kevincastro/Desktop/Programs/BlazorApp/obj/Debug/net8.0/BlazorApp.pdb
 /Users/kevincastro/Desktop/Programs/BlazorApp/obj/Debug/net8.0/BlazorApp.genruntimeconfig.cache
 /Users/kevincastro/Desktop/Programs/BlazorApp/obj/Debug/net8.0/ref/BlazorApp.dll
+/Users/kevincastro/Desktop/Programs/BlazorApp/obj/Debug/net8.0/BlazorApp.sourcelink.json
